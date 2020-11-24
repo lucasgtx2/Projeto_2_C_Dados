@@ -9,3 +9,6 @@ A ordem de leitura do relatório é a seguinte:
 
 Além dos notebooks de relatório, foi feito o upload de todas imagens utilizadas no projeto. 
 **ATENÇÃO**: para visualizar as imagens no relatório, crie um diretório chamado img e mova todos arquivos de imagem para ele.
+
+Nota sobre trabalho em equipe: todos membros trabalharam em conjunto durante as aulas e fora do horário de aula. 
+Todos membros da equipe fizeram pelo menos um commit no GitHub.
